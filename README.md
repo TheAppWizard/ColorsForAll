@@ -8,6 +8,10 @@
  ```
  <color name="Ivory">#FFFFF0</color>
   ```
+ Color Name : `LightYellow`
+ ```
+ <color name="LightYellow">#FFFFE0</color>
+  ```
  <color name="LightYellow">#FFFFE0</color>
  <color name="Yellow">#FFFF00</color>
  <color name="Snow">#FFFAFA</color>
