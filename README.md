@@ -1,10 +1,10 @@
 # Colors For Android
  
- Color Name : White
+ Color Name : `White`
  ```
  <color name="White">#FFFFFF</color>
  ```
- Color Name : Ivory
+ Color Name : `Ivory`
  ```
  <color name="Ivory">#FFFFF0</color>
   ```
