@@ -1,6 +1,6 @@
 # Colors For Android
  
- Color Name : `White`
+ //Color Name : `White`
  ```
  <color name="White">#FFFFFF</color>
  ```
