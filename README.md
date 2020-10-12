@@ -30,11 +30,19 @@ Color Name : `Snow`
  ```
   <color name="FloralWhite">#FFFAF0</color>
   ```
- 
- 
- 
+  
+ Color Name : `LemonChiffon`
+ ```
  <color name="LemonChiffon">#FFFACD</color>
+  ```
+ 
+ Color Name : `Cornsilk`
+ ```
  <color name="Cornsilk">#FFF8DC</color>
+  ```
+ 
+ 
+
  <color name="Seashell">#FFF5EE</color>
  <color name="LavenderBlush">#FFF0F5</color>
  <color name="PapayaWhip">#FFEFD5</color>
