@@ -40,10 +40,15 @@ Color Name : `Snow`
  ```
  <color name="Cornsilk">#FFF8DC</color>
   ```
+  
+ Color Name : `Seashell`
+ ```
+  <color name="Seashell">#FFF5EE</color>
+  ```
  
  
 
- <color name="Seashell">#FFF5EE</color>
+
  <color name="LavenderBlush">#FFF0F5</color>
  <color name="PapayaWhip">#FFEFD5</color>
  <color name="BlanchedAlmond">#FFEBCD</color>
