@@ -45,12 +45,25 @@ Color Name : `Snow`
  ```
   <color name="Seashell">#FFF5EE</color>
   ```
+  
+ Color Name : `LavenderBlush`
+ ```
+<color name="LavenderBlush">#FFF0F5</color>
+  ```  
  
- 
+ Color Name : `PapayaWhip`
+ ```
+<color name="PapayaWhip">#FFEFD5</color>
+  ```  
+  
+  Color Name : `BlanchedAlmond`
+ ```
+ <color name="BlanchedAlmond">#FFEBCD</color>
+  ```   
 
 
- <color name="LavenderBlush">#FFF0F5</color>
- <color name="PapayaWhip">#FFEFD5</color>
+ 
+ 
  <color name="BlanchedAlmond">#FFEBCD</color>
  <color name="MistyRose">#FFE4E1</color>
  <color name="Bisque">#FFE4C4</color>
