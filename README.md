@@ -21,9 +21,18 @@
  <color name="Yellow">#FFFF00</color>
   ```
 
+Color Name : `Snow`
+ ```
+  <color name="Snow">#FFFAFA</color>
+  ```
+  
+ Color Name : `Floral White`
+ ```
+  <color name="FloralWhite">#FFFAF0</color>
+  ```
  
- <color name="Snow">#FFFAFA</color>
- <color name="FloralWhite">#FFFAF0</color>
+ 
+ 
  <color name="LemonChiffon">#FFFACD</color>
  <color name="Cornsilk">#FFF8DC</color>
  <color name="Seashell">#FFF5EE</color>
