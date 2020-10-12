@@ -1,6 +1,6 @@
 # Colors For Android
  
- //Color Name : `White`
+ Color Name : `White`
  ```
  <color name="White">#FFFFFF</color>
  ```
@@ -12,8 +12,13 @@
  ```
  <color name="LightYellow">#FFFFE0</color>
   ```
- <color name="LightYellow">#FFFFE0</color>
+  
+ Color Name : `Yellow`
+ ```
  <color name="Yellow">#FFFF00</color>
+  ```
+
+ 
  <color name="Snow">#FFFAFA</color>
  <color name="FloralWhite">#FFFAF0</color>
  <color name="LemonChiffon">#FFFACD</color>
