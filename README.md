@@ -60,15 +60,29 @@ Color Name : `Snow`
  ```
  <color name="BlanchedAlmond">#FFEBCD</color>
   ```   
+  
+ Color Name : `MistyRose`
+ ```
+<color name="MistyRose">#FFE4E1</color>
+  ```   
 
-
- 
- 
- <color name="BlanchedAlmond">#FFEBCD</color>
- <color name="MistyRose">#FFE4E1</color>
- <color name="Bisque">#FFE4C4</color>
- <color name="Moccasin">#FFE4B5</color>
+ Color Name : `Bisque`
+ ```
+<color name="Bisque">#FFE4C4</color>
+  ```  
+  
+Color Name : `Moccasin`
+ ```
+<color name="Moccasin">#FFE4B5</color>
+  ``` 
+  
+Color Name : `NavajoWhite`
+ ```
  <color name="NavajoWhite">#FFDEAD</color>
+  ```   
+
+
+ 
  <color name="PeachPuff">#FFDAB9</color>
  <color name="Gold">#FFD700</color>
  <color name="Pink">#FFC0CB</color>
