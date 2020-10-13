@@ -1,5 +1,6 @@
 ![Image of Header](https://github.com/TheAppWizard/Colors-For-Android/blob/main/Header.png)
 
+IOS credits : Paul Hudson : Hacking With Swift
 
 ## To Find Colors ( ⌘ + F For Mac , Ctrl + F For Windows)
 
