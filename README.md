@@ -33,7 +33,7 @@ extension UIColor {
 }
 
  ```
-To use the extension  `let gold = UIColor(hex: "#ffe700ff")`
+To use the extension  `let gold = UIColor(hex: "#FFD700")` Its in R G B A format
 
 
  
