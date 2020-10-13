@@ -335,29 +335,109 @@ Color Name : `Honeydew`
  <color name="MediumVioletRed">#C71585</color>
  ```
  
+ Color Name : `Silver`
+ ```
+ <color name="Silver">#C0C0C0</color>
+ ```
 
+  Color Name : `DarkKhaki`  
+ ```
+ <color name="DarkKhaki">#BDB76B</color>
+ ```
+ 
+  Color Name : `RosyBrown`  
+  ```
+ <color name="RosyBrown">#BC8F8F</color>
+ ```
+ 
+ Color Name : `MediumOrchid`  
+  ```
+ <color name="MediumOrchid">#BA55D3</color>
+ ```
+ 
+  Color Name : `DarkGoldenRod`  
+  ```
+  <color name="DarkGoldenrod">#B8860B</color>
+ ```
+ 
+  Color Name : `FireBrick`  
+  ```
+ <color name="FireBrick">#B22222</color>
+ ```
+ 
+  Color Name : `PowderBlue`  
+  ```
+ <color name="PowderBlue">#B0E0E6</color>
+ ```
+ 
+ Color Name : `LightSteelBlue`  
+  ```
+ <color name="LightSteelBlue">#B0C4DE</color>
+ ```
+ 
+ Color Name : `PaleTurquoise`  
+  ```
+ <color name="PaleTurquoise">#AFEEEE</color>
+ ```
+ 
+ Color Name : `GreenYellow`  
+  ```
+<color name="GreenYellow">#ADFF2F</color>
+ ```
+ 
+ Color Name : `LightBlue`  
+  ```
+<color name="LightBlue">#ADD8E6</color>
+ ```
+ 
+ Color Name : `DarkGray`  
+  ```
+<color name="DarkGray">#A9A9A9</color>
+ ```
+ 
+ Color Name : `Brown`  
+  ```
+<color name="Brown">#A52A2A</color>
+ ```
+ 
+ Color Name : `Sienna`  
+  ```
+<color name="Sienna">#A0522D</color>
+ ```
+ 
+ Color Name : `YellowGreen`  
+  ```
+ <color name="YellowGreen">#9ACD32</color>
+ ```
+ 
+ Color Name : `DarkOrchid`  
+  ```
+ <color name="DarkOrchid">#9932CC</color>
+ ```
+ 
+ Color Name : `PaleGreen`  
+  ```
+<color name="PaleGreen">#98FB98</color>
+ ```
+ 
+  Color Name : `DarkViolet`  
+  ```
+ <color name="DarkViolet">#9400D3</color>
+ ```
+ 
+  Color Name : `MediumPurple`  
+  ```
+  <color name="MediumPurple">#9370DB</color>
+ ```
+ 
+ 
+ 
+ 
+ 
 
  
 
- <color name="Silver">#C0C0C0</color>
- <color name="DarkKhaki">#BDB76B</color>
- <color name="RosyBrown">#BC8F8F</color>
- <color name="MediumOrchid">#BA55D3</color>
- <color name="DarkGoldenrod">#B8860B</color>
- <color name="FireBrick">#B22222</color>
- <color name="PowderBlue">#B0E0E6</color>
- <color name="LightSteelBlue">#B0C4DE</color>
- <color name="PaleTurquoise">#AFEEEE</color>
- <color name="GreenYellow">#ADFF2F</color>
- <color name="LightBlue">#ADD8E6</color>
- <color name="DarkGray">#A9A9A9</color>
- <color name="Brown">#A52A2A</color>
- <color name="Sienna">#A0522D</color>
- <color name="YellowGreen">#9ACD32</color>
- <color name="DarkOrchid">#9932CC</color>
- <color name="PaleGreen">#98FB98</color>
- <color name="DarkViolet">#9400D3</color>
- <color name="MediumPurple">#9370DB</color>
+
  <color name="LightGreen">#90EE90</color>
  <color name="DarkSeaGreen">#8FBC8F</color>
  <color name="SaddleBrown">#8B4513</color>
