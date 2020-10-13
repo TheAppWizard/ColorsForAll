@@ -151,10 +151,17 @@ Color Name : `PeachPuff`
  ```
  <color name="Red">#FF0000</color>
   ```
-
-
+  Color Name : `OldLace`
+ ```
  <color name="OldLace">#FDF5E6</color>
+  ```
+  
+  Color Name : `LightGoldenrodYellow`
+ ```
  <color name="LightGoldenrodYellow">#FAFAD2</color>
+  ```
+
+ 
  <color name="Linen">#FAF0E6</color>
  <color name="AntiqueWhite">#FAEBD7</color>
  <color name="Salmon">#FA8072</color>
