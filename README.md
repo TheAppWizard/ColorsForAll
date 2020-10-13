@@ -160,29 +160,122 @@ Color Name : `PeachPuff`
  ```
  <color name="LightGoldenrodYellow">#FAFAD2</color>
   ```
-
- 
+  
+  Color Name : `Linen`
+ ```
  <color name="Linen">#FAF0E6</color>
+  ```
+  
+ Color Name : `AntiqueWhite`
+ ```
  <color name="AntiqueWhite">#FAEBD7</color>
- <color name="Salmon">#FA8072</color>
- <color name="GhostWhite">#F8F8FF</color>
- <color name="MintCream">#F5FFFA</color>
- <color name="WhiteSmoke">#F5F5F5</color>
- <color name="Beige">#F5F5DC</color>
+  ```
+  
+ Color Name : `Salmon`
+ ```
+  <color name="Salmon">#FA8072</color>
+  ```
+
+ Color Name : `GhostWhite`
+ ```
+  <color name="GhostWhite">#F8F8FF</color>
+  ```
+  
+ Color Name : `MintCream`
+ ```
+<color name="MintCream">#F5FFFA</color>
+  ```
+ 
+ Color Name : `WhiteSmoke`
+ ```
+<color name="WhiteSmoke">#F5F5F5</color>  
+```
+
+ Color Name : `Beige`
+ ```
+<color name="Beige">#F5F5DC</color>
+```
+
+ Color Name : `Wheat`
+ ```
  <color name="Wheat">#F5DEB3</color>
- <color name="SandyBrown">#F4A460</color>
+```
+
+ Color Name : `SandyBrown`
+ ```
+<color name="SandyBrown">#F4A460</color>
+```
+
+Color Name : `Azure`
+ ```
  <color name="Azure">#F0FFFF</color>
+```
+
+Color Name : `Honeydew`
+ ```
  <color name="Honeydew">#F0FFF0</color>
- <color name="AliceBlue">#F0F8FF</color>
- <color name="Khaki">#F0E68C</color>
- <color name="LightCoral">#F08080</color>
- <color name="PaleGoldenrod">#EEE8AA</color>
- <color name="Violet">#EE82EE</color>
+```
+ 
+ Color Name : `AliceBlue`
+ ```
+  <color name="AliceBlue">#F0F8FF</color>
+```
+
+ Color Name : `khaki`
+ ```
+  <color name="Khaki">#F0E68C</color>
+```
+ 
+ Color Name : `LightCoral`
+ ```
+  <color name="LightCoral">#F08080</color>
+```
+ 
+ 
+ Color Name : `PaleGoldenrod`
+ ```
+  <color name="PaleGoldenrod">#EEE8AA</color>
+```
+
+
+ Color Name : `Violet`
+ ```
+  <color name="Violet">#EE82EE</color>
+```
+
+
+ Color Name : `DarkSalmon`
+ ```
  <color name="DarkSalmon">#E9967A</color>
+ ```
+ 
+ Color Name : `Lavender`
+ ```
  <color name="Lavender">#E6E6FA</color>
- <color name="LightCyan">#E0FFFF</color>
- <color name="BurlyWood">#DEB887</color>
- <color name="Plum">#DDA0DD</color>
+ ```
+ 
+  Color Name : `LightCyan`
+ ```
+  <color name="LightCyan">#E0FFFF</color>
+ ```
+ 
+  Color Name : `BurlyWood`
+ ```
+  <color name="BurlyWood">#DEB887</color>
+ ```
+ 
+ 
+  Color Name : `Plum`
+ ```
+  <color name="Plum">#DDA0DD</color>
+ ```
+ 
+   Color Name : `Gainsboro`
+ ```
+  <color name="Gainsboro">#DCDCDC</color>
+ ```
+
+
  <color name="Gainsboro">#DCDCDC</color>
  <color name="Crimson">#DC143C</color>
  <color name="PaleVioletRed">#DB7093</color>
