@@ -40,11 +40,11 @@ To use the extension  `let gold = UIColor(hex: "#FFD700FF")` Its in R G B A form
 . All color hex mention in `Colors for Android`
 
  
-# Colors For Android
+# Colors For Android (For IOS Use Only Hex Values)
 
   Color Name : `White`
  ```
- <color name="White">#FFFFFF</color>
+ <color name="White">#FFFFFF</color>   
  ```
  Color Name : `Ivory`
  ```
