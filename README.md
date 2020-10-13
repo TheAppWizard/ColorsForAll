@@ -37,7 +37,7 @@ extension UIColor {
 
  ```
 To use the extension  `let gold = UIColor(hex: "#FFD700FF")` Its in R G B A format
-All color hex mention in `Colors for Android`
+. All color hex mention in `Colors for Android`
 
  
 # Colors For Android
