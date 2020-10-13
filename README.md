@@ -80,24 +80,79 @@ Color Name : `NavajoWhite`
  ```
  <color name="NavajoWhite">#FFDEAD</color>
   ```   
-
-
- 
+  
+Color Name : `PeachPuff`
+ ```
  <color name="PeachPuff">#FFDAB9</color>
+  ```  
+  
+ Color Name : `Gold`
+ ```
  <color name="Gold">#FFD700</color>
+  ```  
+  
+ Color Name : `Pink`
+ ```
  <color name="Pink">#FFC0CB</color>
+  ```  
+  
+ Color Name : `LightPink`
+ ```
  <color name="LightPink">#FFB6C1</color>
- <color name="Orange">#FFA500</color>
- <color name="LightSalmon">#FFA07A</color>
+  ```
+  
+ Color Name : `Orange`
+ ```
+  <color name="Orange">#FFA500</color>
+  ``` 
+  
+  Color Name : `LightSalmon`
+ ```
+  <color name="LightSalmon">#FFA07A</color>
+  ```
+
+  Color Name : `DarkOrange`
+ ```
  <color name="DarkOrange">#FF8C00</color>
+  ```
+
+  Color Name : `Coral`
+ ```
  <color name="Coral">#FF7F50</color>
+  ```
+  
+  Color Name : `HotPink`
+ ```
  <color name="HotPink">#FF69B4</color>
+  ```
+  
+ Color Name : `Tomato`
+ ```
  <color name="Tomato">#FF6347</color>
+  ```
+  
+ Color Name : `OrangeRed`
+ ```
  <color name="OrangeRed">#FF4500</color>
+  ```
+  
+ Color Name : `DeepPink`
+ ```
  <color name="DeepPink">#FF1493</color>
+  ```
+  
+ Color Name : `Fuchsia / Magenta`
+ ```
  <color name="Fuchsia">#FF00FF</color>
  <color name="Magenta">#FF00FF</color>
+  ```
+  
+ Color Name : `Red`
+ ```
  <color name="Red">#FF0000</color>
+  ```
+
+
  <color name="OldLace">#FDF5E6</color>
  <color name="LightGoldenrodYellow">#FAFAD2</color>
  <color name="Linen">#FAF0E6</color>
@@ -206,4 +261,11 @@ Color Name : `NavajoWhite`
  <color name="MediumBlue">#0000CD</color>
  <color name="DarkBlue">#00008B</color>
  <color name="Navy">#000080</color>
- <color name="Black">#000000</color>
+ 
+ 
+ Color Name : `Black`
+ ```
+<color name="Black">#000000</color>
+  ```
+ 
+ 
