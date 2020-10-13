@@ -430,17 +430,29 @@ Color Name : `Honeydew`
   <color name="MediumPurple">#9370DB</color>
  ```
  
- 
- 
- 
- 
-
- 
-
-
+  Color Name : `LightGreen`  
+  ```
  <color name="LightGreen">#90EE90</color>
+ ```
+ 
+   Color Name : `DarkSeaGreen`  
+  ```
  <color name="DarkSeaGreen">#8FBC8F</color>
- <color name="SaddleBrown">#8B4513</color>
+ ```
+  
+ Color Name : `SaddleBrown`  
+  ```
+<color name="SaddleBrown">#8B4513</color>
+ ```
+ 
+ Color Name : `DarkMagenta`  
+  ```
+ <color name="DarkMagenta">#8B008B</color>
+ ```
+ 
+ 
+
+ 
  <color name="DarkMagenta">#8B008B</color>
  <color name="DarkRed">#8B0000</color>
  <color name="BlueViolet">#8A2BE2</color>
