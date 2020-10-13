@@ -479,40 +479,164 @@ Color Name : `Honeydew`
   ```
  <color name="Gray">#808080</color>
  ```
+   
+   
+ Color Name : `Purple`  
+  ```
+<color name="Purple">#800080</color>
+ ```
  
+Color Name : `Maroon`  
+  ```
+<color name="Maroon">#800000</color>
+ ```
+Color Name : `Aquamarine`  
+  ```
+<color name="Aquamarine">#7FFFD4</color>
+ ```
  
-
- 
-
- <color name="Purple">#800080</color>
- <color name="Maroon">#800000</color>
- <color name="Aquamarine">#7FFFD4</color>
- <color name="Chartreuse">#7FFF00</color>
+ Color Name : `Chartreuse`  
+  ```
+<color name="Chartreuse">#7FFF00</color>
+ ```
+  Color Name : `LawnGreen`  
+  ```
  <color name="LawnGreen">#7CFC00</color>
+ ```
+ 
+  Color Name : `MediumSlateBlue`  
+  ```
  <color name="MediumSlateBlue">#7B68EE</color>
+ ```
+ 
+  Color Name : `LightSlateGray`  
+  ```
  <color name="LightSlateGray">#778899</color>
- <color name="SlateGray">#708090</color>
+ ```
+ 
+  Color Name : `SlateGray`  
+  ```
+  <color name="SlateGray">#708090</color>
+ ```
+ 
+  Color Name : `OliveDrab`  
+  ```
  <color name="OliveDrab">#6B8E23</color>
- <color name="SlateBlue">#6A5ACD</color>
- <color name="DimGray">#696969</color>
- <color name="MediumAquamarine">#66CDAA</color>
- <color name="CornflowerBlue">#6495ED</color>
+ ```
+ 
+  Color Name : `SlateBlue`  
+  ```
+  <color name="SlateBlue">#6A5ACD</color>
+ ```
+ 
+ Color Name : `DimGray`  
+  ```
+  <color name="DimGray">#696969</color>
+ ```
+  
+  Color Name : `MediumAquamarine`  
+  ```
+  <color name="MediumAquamarine">#66CDAA</color>
+ ```
+ 
+  Color Name : `CornflowerBlue`  
+  ```
+  <color name="CornflowerBlue">#6495ED</color>
+ ```
+ 
+  Color Name : `CadetBlue`  
+  ```
  <color name="CadetBlue">#5F9EA0</color>
- <color name="DarkOliveGreen">#556B2F</color>
- <color name="Indigo">#4B0082</color>
+ ```
+ 
+ Color Name : `DarkOliveGreen`  
+  ```
+<color name="DarkOliveGreen">#556B2F</color>
+ ```
+ 
+Color Name : `Indigo`  
+  ```
+<color name="Indigo">#4B0082</color>
+ ```
+ 
+ Color Name : `MediumTurquoise`  
+  ```
  <color name="MediumTurquoise">#48D1CC</color>
- <color name="DarkSlateBlue">#483D8B</color>
+ ```
+ 
+  Color Name : `DarkSlateBlue`  
+  ```
+  <color name="DarkSlateBlue">#483D8B</color>
+ ```
+   Color Name : `DarkSlateBlue`  
+  ```
+  <color name="DarkSlateBlue">#483D8B</color>
+ ```
+ 
+   Color Name : `SteelBlue`  
+  ```
  <color name="SteelBlue">#4682B4</color>
- <color name="RoyalBlue">#4169E1</color>
+ ```
+ 
+  Color Name : `SteelBlue`  
+  ```
+ <color name="SteelBlue">#4682B4</color>
+ ```
+ 
+ 
+ Color Name : `RoyalBlue`  
+  ```
+<color name="RoyalBlue">#4169E1</color>
+ ```
+ 
+Color Name : `Turquoise`  
+  ```
  <color name="Turquoise">#40E0D0</color>
+ ```
+ 
+ Color Name : `MediumSeaGreen`  
+  ```
  <color name="MediumSeaGreen">#3CB371</color>
+ ```
+
+Color Name : `LimeGreen`  
+  ```
  <color name="LimeGreen">#32CD32</color>
- <color name="DarkSlateGray">#2F4F4F</color>
+ ```
+ 
+ Color Name : `DarkSlateGray`  
+  ```
+<color name="DarkSlateGray">#2F4F4F</color>
+ ```
+
+ Color Name : `SeaGreen`  
+  ```
  <color name="SeaGreen">#2E8B57</color>
+ ```
+
+ Color Name : `ForestGreen`  
+  ```
  <color name="ForestGreen">#228B22</color>
+ ```
+ 
+  Color Name : `LightSeaGreen`  
+  ```
  <color name="LightSeaGreen">#20B2AA</color>
+ ```
+ 
+ Color Name : `DodgerBlue`  
+  ```
  <color name="DodgerBlue">#1E90FF</color>
- <color name="MidnightBlue">#191970</color>
+ ```
+
+Color Name : `MidnightBlue`  
+  ```
+  <color name="MidnightBlue">#191970</color>
+ ```
+
+ 
+
+
  <color name="Aqua">#00FFFF</color>
  <color name="Cyan">#00FFFF</color>
  <color name="SpringGreen">#00FF7F</color>
