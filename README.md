@@ -1,4 +1,6 @@
-# Colors for Applications 
+![Image of Header](https://github.com/TheAppWizard/Colors-For-Android/blob/main/footer.png)
+
+
 ## To Find Colors ( ⌘ + F For Mac , Ctrl + F For Windows)
 
 # Colors For IOS
@@ -33,18 +35,13 @@ extension UIColor {
 }
 
  ```
-To use the extension  `let gold = UIColor(hex: "#FFD700")` Its in R G B A format
-
+To use the extension  `let gold = UIColor(hex: "#FFD700FF")` Its in R G B A format
+All color hex mention in `Colors for Android`
 
  
 # Colors For Android
 
-
-
-
-https://github.com/TheAppWizard/Colors-For-Android/blob/main/footer.png
- 
- Color Name : `White`
+  Color Name : `White`
  ```
  <color name="White">#FFFFFF</color>
  ```
