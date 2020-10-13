@@ -450,16 +450,40 @@ Color Name : `Honeydew`
  <color name="DarkMagenta">#8B008B</color>
  ```
  
+  Color Name : `DarkRed`  
+  ```
+  <color name="DarkRed">#8B0000</color>
+ ```
+ 
+  Color Name : `BlueViolet`  
+  ```
+ <color name="BlueViolet">#8A2BE2</color>
+ ```
+ 
+   Color Name : `Olive`  
+  ```
+ <color name="Olive">#808000</color>
+ ```
+ 
+   Color Name : `LightSkyBlue`  
+  ```
+ <color name="LightSkyBlue">#87CEFA</color>
+ ```
+ 
+   Color Name : `SkyBlue`  
+  ```
+<color name="SkyBlue">#87CEEB</color>
+ ```
+ 
+   Color Name : `Gray`  
+  ```
+ <color name="Gray">#808080</color>
+ ```
+ 
  
 
  
- <color name="DarkMagenta">#8B008B</color>
- <color name="DarkRed">#8B0000</color>
- <color name="BlueViolet">#8A2BE2</color>
- <color name="LightSkyBlue">#87CEFA</color>
- <color name="SkyBlue">#87CEEB</color>
- <color name="Gray">#808080</color>
- <color name="Olive">#808000</color>
+
  <color name="Purple">#800080</color>
  <color name="Maroon">#800000</color>
  <color name="Aquamarine">#7FFFD4</color>
@@ -500,11 +524,31 @@ Color Name : `Honeydew`
  <color name="Teal">#008080</color>
  <color name="Green">#008000</color>
  <color name="DarkGreen">#006400</color>
- <color name="Blue">#0000FF</color>
- <color name="MediumBlue">#0000CD</color>
- <color name="DarkBlue">#00008B</color>
- <color name="Navy">#000080</color>
  
+
+
+
+Color Name : `Blue`
+ ```
+  <color name="Blue">#0000FF</color>
+  ```
+
+
+
+Color Name : `MediumBlue`
+ ```
+  <color name="MediumBlue">#0000CD</color>
+ ```
+Color Name : `DarkBlue`
+ ```
+ <color name="DarkBlue">#00008B</color>
+  ```
+ 
+ 
+ Color Name : `Navy`
+ ```
+ <color name="Navy">#000080</color>
+  ```
  
  Color Name : `Black`
  ```
