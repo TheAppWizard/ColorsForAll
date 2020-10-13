@@ -268,7 +268,19 @@ Color Name : `PeachPuff`
 <color name="Black">#000000</color>
   ```
 
-#Color Transparency 
+# Color Transparency 
+How to use ??
+
+Select Color
+  ```
+<color name="Black">#000000</color>
+  ```
+Add Transparency  
+ 
+   ```
+<color name="Black">#000000 FF</color>
+  ```
+
 ```
 100% — FF
 95% — F2
