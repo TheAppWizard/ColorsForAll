@@ -1,4 +1,4 @@
-![Image of Header](https://github.com/TheAppWizard/Colors-For-Android/blob/main/footer.png)
+![Image of Header](https://github.com/TheAppWizard/Colors-For-Android/blob/main/Header.png)
 
 
 ## To Find Colors ( ⌘ + F For Mac , Ctrl + F For Windows)
