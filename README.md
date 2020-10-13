@@ -757,18 +757,28 @@ Color Name : `DarkBlue`
   ```
 
 # Color Transparency (R G B A)
-How to use ??
+## A is Alpha Component which is transparency 
 
-Select Color
+How to use for Android ?
+
+Select Color (Color Format R G B)
   ```
 <color name="Black">#000000</color>
   ```
-Add Transparency  
+Add Transparency (A)  : (R G B A)
  
    ```
 <color name="Black">#000000 FF</color>
   ```
 
+How to use for IOS ?
+ ```
+let semi = purple.colorWithAlphaComponent(0.5) // 0.5 alpha
+  ```
+
+
+
+Transparency  Hex Values
 ```
 100% — FF
 95% — F2
