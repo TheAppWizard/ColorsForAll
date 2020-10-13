@@ -1,5 +1,7 @@
 # Colors For Android
 
+## To Find Colors ( ⌘ + F For Mac , Ctrl + F For Windows)
+
 ![Image of Header](https://github.com/TheAppWizard/Colors-For-Android/blob/main/headerGit.png)
 
  
@@ -633,23 +635,61 @@ Color Name : `MidnightBlue`
   ```
   <color name="MidnightBlue">#191970</color>
  ```
-
  
-
-
- <color name="Aqua">#00FFFF</color>
+ Color Name : `Aqua`  
+  ```
+  <color name="Aqua">#00FFFF</color>
+ ```
+ 
+  Color Name : `Cyan`  
+  ```
  <color name="Cyan">#00FFFF</color>
- <color name="SpringGreen">#00FF7F</color>
- <color name="Lime">#00FF00</color>
- <color name="MediumSpringGreen">#00FA9A</color>
- <color name="DarkTurquoise">#00CED1</color>
- <color name="DeepSkyBlue">#00BFFF</color>
- <color name="DarkCyan">#008B8B</color>
- <color name="Teal">#008080</color>
- <color name="Green">#008000</color>
- <color name="DarkGreen">#006400</color>
+ ```
  
+ Color Name : `SpringGreen`  
+  ```
+<color name="SpringGreen">#00FF7F</color>
+ ```
 
+ Color Name : `Lime`  
+  ```
+ <color name="Lime">#00FF00</color>
+ ```
+
+Color Name : `MediumSpringGreen`  
+  ```
+<color name="MediumSpringGreen">#00FA9A</color>
+ ```
+ Color Name : `DarkTurquoise`  
+  ```
+ <color name="DarkTurquoise">#00CED1</color>
+ ```
+ 
+  Color Name : `DeepSkyBlue`  
+  ```
+ <color name="DeepSkyBlue">#00BFFF</color>
+ ```
+ 
+   Color Name : `DarkCyan`  
+  ```
+ <color name="DarkCyan">#008B8B</color>
+ ```
+ 
+  Color Name : `Teal`  
+  ```
+ <color name="Teal">#008080</color>
+ ```
+ 
+ Color Name : `Green`  
+  ```
+ <color name="Green">#008000</color>
+ ```
+ 
+  
+ Color Name : `DarkGreen`  
+  ```
+  <color name="DarkGreen">#006400</color>
+ ```
 
 
 Color Name : `Blue`
@@ -679,7 +719,7 @@ Color Name : `DarkBlue`
 <color name="Black">#000000</color>
   ```
 
-# Color Transparency 
+# Color Transparency (R G B A)
 How to use ??
 
 Select Color
