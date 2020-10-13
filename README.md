@@ -275,19 +275,70 @@ Color Name : `Honeydew`
   <color name="Gainsboro">#DCDCDC</color>
  ```
 
+ Color Name : `Crimson`
+ ```
+   <color name="Crimson">#DC143C</color>
+ ```
+ 
+  Color Name : `Crimson`
+ ```
+   <color name="Crimson">#DC143C</color>
+ ```
 
- <color name="Gainsboro">#DCDCDC</color>
- <color name="Crimson">#DC143C</color>
- <color name="PaleVioletRed">#DB7093</color>
- <color name="Goldenrod">#DAA520</color>
- <color name="Orchid">#DA70D6</color>
- <color name="Thistle">#D8BFD8</color>
- <color name="LightGrey">#D3D3D3</color>
- <color name="Tan">#D2B48C</color>
+  Color Name : `PaleVioletRed`
+ ```
+   <color name="PaleVioletRed">#DB7093</color>
+ ```
+ 
+  Color Name : `Goldenrod`
+ ```
+    <color name="Goldenrod">#DAA520</color>
+ ```
+ 
+  Color Name : `Orchid`
+ ```
+   <color name="Orchid">#DA70D6</color>
+ ```
+  Color Name : `Thistle`
+ ```
+   <color name="Thistle">#D8BFD8</color>
+ ```
+ 
+ Color Name : `LightGrey`
+ ```
+  <color name="LightGrey">#D3D3D3</color>
+ ```
+ 
+  
+ Color Name : `Tan`
+ ```
+   <color name="Tan">#D2B48C</color>
+ ```
+ 
+ Color Name : `Chocolate`
+ ```
  <color name="Chocolate">#D2691E</color>
- <color name="Peru">#CD853F</color>
+ ```
+ 
+  Color Name : `Peru`
+ ```
+  <color name="Peru">#CD853F</color>
+ ```
+ 
+  Color Name : `IndianRed`
+ ```
  <color name="IndianRed">#CD5C5C</color>
+ ```
+
+ Color Name : `MediumVioletRed`
+ ```
  <color name="MediumVioletRed">#C71585</color>
+ ```
+ 
+
+
+ 
+
  <color name="Silver">#C0C0C0</color>
  <color name="DarkKhaki">#BDB76B</color>
  <color name="RosyBrown">#BC8F8F</color>
