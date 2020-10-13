@@ -2,8 +2,8 @@
 
 ## To Find Colors ( ⌘ + F For Mac , Ctrl + F For Windows)
 
-![Image of Header](https://github.com/TheAppWizard/Colors-For-Android/blob/main/headerGit.png)
 
+https://github.com/TheAppWizard/Colors-For-Android/blob/main/footer.png
  
  Color Name : `White`
  ```
@@ -756,6 +756,7 @@ Add Transparency
 0% — 00
 ```
 
+![Image of Footer](https://github.com/TheAppWizard/Colors-For-Android/blob/main/footer.png)
 
   
  
